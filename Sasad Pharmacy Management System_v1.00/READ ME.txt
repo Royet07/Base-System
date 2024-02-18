@@ -1,0 +1,20 @@
+
+*Note. Install first the Composer-Setup.exe to enable php mailer sender.
+
+
+
+ADMIN Credentials
+==================
+Browser Link: 
+http://localhost/Disaster%20Management%20System/admin/login/login.php
+
+Username/Email: admin@gmail.com
+Password: 12345 
+
+User Staff Credentials
+==================
+Browser Link: 
+http://localhost/Disaster%20Management%20System/admin/login/login.php
+
+Username/Email: carlo@gmail.com
+Password: 12345 
